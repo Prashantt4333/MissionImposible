@@ -13,6 +13,7 @@
   "dependencies": {
     "curl": "^0.1.4",
     "jquery": "^3.6.4",
-    "jsdom": "^21.1.1"
+    "jsdom": "^21.1.1",
+    "nodemon": "^2.0.21"
   }
 }
